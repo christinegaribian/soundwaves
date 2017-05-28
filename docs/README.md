@@ -2,7 +2,7 @@
 
 ### Background  
 
-Soundwaves, inspired by Audiotool's [Tonematrix](tonematrix.audiotool.com), is a way to make music by pressing buttons. It is a 16x16 musical step sequencer that uses the pentatonic scale, one of humanity's most [fascinatingly widespread](https://www.youtube.com/watch?v=ne6tB2KiZuk) musical constructs.
+Soundwaves, inspired by Audiotool's [Tonematrix](http://www.tonematrix.audiotool.com), is a way to make music by pressing buttons. It is a 16x16 musical step sequencer that uses the pentatonic scale, one of humanity's most [fascinatingly widespread](https://www.youtube.com/watch?v=ne6tB2KiZuk) musical constructs.
 
 ### Functionality & MVP  
 
