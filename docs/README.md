@@ -22,7 +22,7 @@ In addition, this project will include:
 This app will consist of a single screen with game board, and nav links to the Github, my LinkedIn,
 and the About modal.  
 
-![wireframes](Wireframes/main.png)
+![wireframes](Wireframes/Main.png)
 
 ### Architecture and Technologies
 
