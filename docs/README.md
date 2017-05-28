@@ -28,12 +28,12 @@ and the About modal.
 
 This project will be implemented with the following technologies:
 
-- Vanilla JavaScript and `jquery` for overall structure and game logic,
-- `Easel.js` with `HTML5 Canvas` for DOM manipulation and rendering,
-- `HTML5 WebAudioKit API` for audio manipulation,
-- Webpack to bundle and serve up the various scripts.
+- Vanilla JavaScript and `jquery` for overall structure and game logic
+- `Easel.js` with `HTML5 Canvas` for DOM manipulation and rendering
+- `HTML5 WebAudioKit API` for audio manipulation
+- Webpack to bundle and serve up the various scripts
 
-In addition to the webpack entry file, there will be three scripts involved in this project:
+In addition to the webpack entry file, there will be four scripts involved in this project:
 
 `matrix.js`: handle the logic for creating and updating the necessary `Easel.js` elements and rendering them to the DOM.
 
@@ -48,7 +48,7 @@ In addition to the webpack entry file, there will be three scripts involved in t
 
 **Day 1**
 
-Setting up the files structure and live url. Learn how to interface with `HTML5 WebAudioKit API`
+Setting up the files structure and live url. Learning how to interface with `HTML5 WebAudioKit API`
 
 **Day 2**
 
