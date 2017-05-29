@@ -41,7 +41,7 @@ In addition to the webpack entry file, there will be four scripts involved in th
 
 `audio.js`: handle interfacing with `HTML5 WebAudioKit API`.
 
-`square.js`: house the constructor and update functions for the `Square` objects.  Each `Square` will contain a `playing` boolean, a `position` coordinate and a `time` (what time it should play, relative to the beginning of the measure)
+`square.js`: house the constructor and update functions for the `Square` objects.  Each `Square` will contain a `playing` boolean, a `note` that it plays, a `position` coordinate, and a `time` (what time it should play, relative to the beginning of the measure)
 
 
 ### Implementation Timeline
@@ -52,11 +52,11 @@ Setting up the files structure and live url. Learning how to interface with `HTM
 
 **Day 2**
 
-Writing the sequencer logic
+Writing the rendering logic
 
 **Day 3**
 
-Writing the rendering logic
+Writing the sequencer logic
 
 
 **Day 4**
