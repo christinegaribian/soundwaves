@@ -8,9 +8,10 @@ Soundwaves, inspired by Audiotool's [Tonematrix](http://www.tonematrix.audiotool
 
 Users will be able to:
 
-- [ ] Select squares to be played
-- [ ] Clear the current sound pattern by pressing the spacebar
-- [ ] Share their musical creation
+- [ ] Create a pattern to be played
+- [ ] Play and pause the current patern
+- [ ] Clear the current sound pattern
+- [ ] Generate a random pattern
 
 In addition, this project will include:
 
@@ -48,11 +49,11 @@ In addition to the webpack entry file, there will be four scripts involved in th
 
 **Day 1**
 
-Setting up the files structure and live url. Learning how to interface with `HTML5 WebAudioKit API`
+Setting up the files structure. Writing the rendering logic.
 
 **Day 2**
 
-Writing the rendering logic
+Setting up live url. Learning how to interface with `HTML5 WebAudioKit API`.
 
 **Day 3**
 
@@ -61,7 +62,7 @@ Writing the sequencer logic
 
 **Day 4**
 
-Styling the board, transitions, and effects. Making the sound pattern sharable.
+Making random patterns. Styling the board, transitions, and effects.
 
 
 ### Bonus features
@@ -69,6 +70,6 @@ Styling the board, transitions, and effects. Making the sound pattern sharable.
 There are many directions this sequencer could go.  Some anticipated updates are:
 
 - [ ] Ability to add drums
-- [ ] Random pattern generator
+- [ ] Share their musical creation
 - [ ] Controls for delay, tempo, cutoff, resonance, reverb, release, and attack
-- [ ] Background color changes linked to bass
+- [ ] Background visualizer
