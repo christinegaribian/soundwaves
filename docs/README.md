@@ -35,13 +35,13 @@ This project will be implemented with the following technologies:
 
 In addition to the webpack entry file, there will be four scripts involved in this project:
 
-`matrix.js`: handle the logic for creating and updating the necessary `Easel.js` elements and rendering them to the DOM.
+`grid.js`: handle the logic for creating and updating the necessary `Easel.js` elements and rendering them to the DOM.
 
 `sequencer.js`: handle behind-the-scenes logic of actually playing the user-generated pattern.
 
 `audio.js`: handle interfacing with `HTML5 WebAudioKit API`.
 
-`square.js`: house the constructor and update functions for the `Square` objects.  Each `Square` will contain a `playing` boolean, and a `time` (what time it should play, relative to the beginning of the measure)
+`square.js`: house the constructor and update functions for the `Square` objects.  Each `Square` will contain a `playing` boolean, a `position` coordinate and a `time` (what time it should play, relative to the beginning of the measure)
 
 
 ### Implementation Timeline
