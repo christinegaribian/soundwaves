@@ -2,7 +2,7 @@
 
 ### Background  
 
-Soundwaves, inspired by Audiotool's [Tonematrix](http://www.tonematrix.audiotool.com), is a way to create music from the keyboard. It is a 16x16 musical step sequencer that uses the pentatonic scale, one of humanity's most [fascinatingly widespread](https://www.youtube.com/watch?v=ne6tB2KiZuk) musical constructs.
+Soundwaves, inspired by Audiotool's [Tonematrix](http://www.tonematrix.audiotool.com), is a 16x16 musical step sequencer that mathematically computes synthesized sounds from the pentatonic scale, one of humanity's most [fascinatingly widespread](https://www.youtube.com/watch?v=ne6tB2KiZuk) musical constructs.
 
 ### Functionality & MVP  
 
@@ -52,7 +52,7 @@ Setting up the files structure. Writing the rendering logic.
 
 **Day 2**
 
-Setting up live url. Learning how to interface with `HTML5 WebAudioKit API`. 
+Setting up live url. Learning how to interface with `HTML5 WebAudioKit API`.
 
 **Day 3**
 
